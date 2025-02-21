@@ -1,12 +1,13 @@
 # GRF Badges
 
-Documentation built at 2025-01-20 23:53:19.440590
+Documentation built at 2025-02-21 02:25:44.425701
 
 ## Classes
 
 | Prefix | Name |
 | ------ | ---- |
 | `flag` | [Country/Region](#c_flag) |
+| `livery` | [Livery](#c_livery) |
 | `operator` | [Operator](#c_operator) |
 | `power` | [Propulsion](#c_power) |
 | `role` | [Role](#c_role) |
@@ -267,8 +268,17 @@ Documentation built at 2025-01-20 23:53:19.440590
 | ![flag/ZM](images/flag/ZM.png) | <a name="b_flag/ZM"></a>`flag/ZM` | Zambia | [#](#b_flag/ZM) |
 | ![flag/ZW](images/flag/ZW.png) | <a name="b_flag/ZW"></a>`flag/ZW` | Zimbabwe | [#](#b_flag/ZW) |
 | ![flag/east_germany](images/flag/east_germany.png) | <a name="b_flag/east_germany"></a>`flag/east_germany` | East Germany | [#](#b_flag/east_germany) |
+| ![flag/europe](images/flag/europe.png) | <a name="b_flag/europe"></a>`flag/europe` | Europe | [#](#b_flag/europe) |
 | ![flag/soviet_union](images/flag/soviet_union.png) | <a name="b_flag/soviet_union"></a>`flag/soviet_union` | USSR | [#](#b_flag/soviet_union) |
 | ![flag/yugoslavia](images/flag/yugoslavia.png) | <a name="b_flag/yugoslavia"></a>`flag/yugoslavia` | Yugoslavia | [#](#b_flag/yugoslavia) |
+
+### <a name="c_livery"></a>Livery
+
+| Icon | Label | Description |   |
+| ---- | ----- | ----------- | - |
+| ![livery/2cc](images/livery/2cc.png) | <a name="b_livery/2cc"></a>`livery/2cc` | Dual company colour (2CC) | [#](#b_livery/2cc) |
+| ![livery/random/1cc](images/livery/random/1cc.png) | <a name="b_livery/random/1cc"></a>`livery/random/1cc` | Random based on first company colour | [#](#b_livery/random/1cc) |
+| ![livery/random/2cc](images/livery/random/2cc.png) | <a name="b_livery/random/2cc"></a>`livery/random/2cc` | Random based on second company colour | [#](#b_livery/random/2cc) |
 
 ### <a name="c_operator"></a>Operator
 
@@ -294,4 +304,5 @@ Documentation built at 2025-01-20 23:53:19.440590
 |  | <a name="b_role/freight"></a>`role/freight` | Heavy freight | [#](#b_role/freight) |
 |  | <a name="b_role/mixed"></a>`role/mixed` | Mixed | [#](#b_role/mixed) |
 |  | <a name="b_role/passenger"></a>`role/passenger` | Passenger | [#](#b_role/passenger) |
+|  | <a name="b_role/restaurant_car"></a>`role/restaurant_car` | Restaurant car | [#](#b_role/restaurant_car) |
 
