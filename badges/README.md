@@ -1,6 +1,6 @@
 # GRF Badges
 
-Documentation built at 2025-02-21 02:25:44.425701
+Documentation built at 2025-02-24 00:23:02.324097
 
 ## Classes
 
@@ -289,8 +289,20 @@ Documentation built at 2025-02-21 02:25:44.425701
 
 | Icon | Label | Description |   |
 | ---- | ----- | ----------- | - |
+| ![power/battery](images/power/battery.png) | <a name="b_power/battery"></a>`power/battery` | Battery | [#](#b_power/battery) |
 | ![power/diesel](images/power/diesel.png) | <a name="b_power/diesel"></a>`power/diesel` | Diesel | [#](#b_power/diesel) |
+|  | <a name="b_power/diesel/diesel-electric"></a>`power/diesel/diesel-electric` | Diesel (Diesel-electric) | [#](#b_power/diesel/diesel-electric) |
+|  | <a name="b_power/diesel/diesel-hydraulic"></a>`power/diesel/diesel-hydraulic` | Diesel (Diesel-hydraulic) | [#](#b_power/diesel/diesel-hydraulic) |
 | ![power/electric](images/power/electric.png) | <a name="b_power/electric"></a>`power/electric` | Electric | [#](#b_power/electric) |
+| ![power/electric/ac](images/power/electric/ac.png) | <a name="b_power/electric/ac"></a>`power/electric/ac` | Electric (AC) | [#](#b_power/electric/ac) |
+| ![power/electric/ac/15kv](images/power/electric/ac/15kv.png) | <a name="b_power/electric/ac/15kv"></a>`power/electric/ac/15kv` | Electric (AC 15kV) | [#](#b_power/electric/ac/15kv) |
+| ![power/electric/ac/25kv](images/power/electric/ac/25kv.png) | <a name="b_power/electric/ac/25kv"></a>`power/electric/ac/25kv` | Electric (AC 25kV) | [#](#b_power/electric/ac/25kv) |
+| ![power/electric/dc](images/power/electric/dc.png) | <a name="b_power/electric/dc"></a>`power/electric/dc` | Electric (DC) | [#](#b_power/electric/dc) |
+| ![power/electric/dc/1200v](images/power/electric/dc/1200v.png) | <a name="b_power/electric/dc/1200v"></a>`power/electric/dc/1200v` | Electric (DC 1200V) | [#](#b_power/electric/dc/1200v) |
+| ![power/electric/dc/1500v](images/power/electric/dc/1500v.png) | <a name="b_power/electric/dc/1500v"></a>`power/electric/dc/1500v` | Electric (DC 1500V) | [#](#b_power/electric/dc/1500v) |
+| ![power/electric/dc/3kv](images/power/electric/dc/3kv.png) | <a name="b_power/electric/dc/3kv"></a>`power/electric/dc/3kv` | Electric (DC 3kV) | [#](#b_power/electric/dc/3kv) |
+| ![power/electric/dc/600v](images/power/electric/dc/600v.png) | <a name="b_power/electric/dc/600v"></a>`power/electric/dc/600v` | Electric (DC 600V) | [#](#b_power/electric/dc/600v) |
+| ![power/electric/dc/750v](images/power/electric/dc/750v.png) | <a name="b_power/electric/dc/750v"></a>`power/electric/dc/750v` | Electric (DC 750V) | [#](#b_power/electric/dc/750v) |
 | ![power/steam](images/power/steam.png) | <a name="b_power/steam"></a>`power/steam` | Steam | [#](#b_power/steam) |
 | ![power/turbine](images/power/turbine.png) | <a name="b_power/turbine"></a>`power/turbine` | Gas Turbine | [#](#b_power/turbine) |
 
@@ -301,7 +313,7 @@ Documentation built at 2025-02-21 02:25:44.425701
 |  | <a name="b_role/express_freight"></a>`role/express_freight` | Express freight | [#](#b_role/express_freight) |
 |  | <a name="b_role/express_passenger"></a>`role/express_passenger` | Express passenger | [#](#b_role/express_passenger) |
 |  | <a name="b_role/freight"></a>`role/freight` | Freight | [#](#b_role/freight) |
-|  | <a name="b_role/freight"></a>`role/freight` | Heavy freight | [#](#b_role/freight) |
+|  | <a name="b_role/heavy_freight"></a>`role/heavy_freight` | Heavy freight | [#](#b_role/heavy_freight) |
 |  | <a name="b_role/mixed"></a>`role/mixed` | Mixed | [#](#b_role/mixed) |
 |  | <a name="b_role/passenger"></a>`role/passenger` | Passenger | [#](#b_role/passenger) |
 |  | <a name="b_role/restaurant_car"></a>`role/restaurant_car` | Restaurant car | [#](#b_role/restaurant_car) |
