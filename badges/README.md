@@ -1,6 +1,6 @@
 # GRF Badges
 
-Documentation built at 2025-02-24 00:23:02.324097
+Documentation built at 2025-02-27 18:27:37.666611
 
 ## Classes
 
@@ -10,7 +10,9 @@ Documentation built at 2025-02-24 00:23:02.324097
 | `livery` | [Livery](#c_livery) |
 | `operator` | [Operator](#c_operator) |
 | `power` | [Propulsion](#c_power) |
+| `region` | [Region](#c_region) |
 | `role` | [Role](#c_role) |
+| `zone` | [Zone](#c_zone) |
 
 ## Badges
 
@@ -306,15 +308,82 @@ Documentation built at 2025-02-24 00:23:02.324097
 | ![power/steam](images/power/steam.png) | <a name="b_power/steam"></a>`power/steam` | Steam | [#](#b_power/steam) |
 | ![power/turbine](images/power/turbine.png) | <a name="b_power/turbine"></a>`power/turbine` | Gas Turbine | [#](#b_power/turbine) |
 
+### <a name="c_region"></a>Region
+
+| Icon | Label | Description |   |
+| ---- | ----- | ----------- | - |
+|  | <a name="b_region/africa"></a>`region/africa` | Africa | [#](#b_region/africa) |
+|  | <a name="b_region/africa/eastern"></a>`region/africa/eastern` | Eastern Africa | [#](#b_region/africa/eastern) |
+|  | <a name="b_region/africa/middle"></a>`region/africa/middle` | Middle Africa | [#](#b_region/africa/middle) |
+|  | <a name="b_region/africa/northern"></a>`region/africa/northern` | Northern Africa | [#](#b_region/africa/northern) |
+|  | <a name="b_region/africa/southern"></a>`region/africa/southern` | Southern Africa | [#](#b_region/africa/southern) |
+|  | <a name="b_region/africa/western"></a>`region/africa/western` | Western Africa | [#](#b_region/africa/western) |
+|  | <a name="b_region/america"></a>`region/america` | Americas | [#](#b_region/america) |
+|  | <a name="b_region/america/caribbean"></a>`region/america/caribbean` | Caribbean | [#](#b_region/america/caribbean) |
+|  | <a name="b_region/america/central"></a>`region/america/central` | Central America | [#](#b_region/america/central) |
+|  | <a name="b_region/america/northern"></a>`region/america/northern` | Northern America | [#](#b_region/america/northern) |
+|  | <a name="b_region/america/south"></a>`region/america/south` | South America | [#](#b_region/america/south) |
+|  | <a name="b_region/asia"></a>`region/asia` | Asia | [#](#b_region/asia) |
+|  | <a name="b_region/asia/central"></a>`region/asia/central` | Central Asia | [#](#b_region/asia/central) |
+|  | <a name="b_region/asia/eastern"></a>`region/asia/eastern` | Eastern Asia | [#](#b_region/asia/eastern) |
+|  | <a name="b_region/asia/southeastern"></a>`region/asia/southeastern` | South-eastern Asia | [#](#b_region/asia/southeastern) |
+|  | <a name="b_region/asia/southern"></a>`region/asia/southern` | Southern Asia | [#](#b_region/asia/southern) |
+|  | <a name="b_region/asia/western"></a>`region/asia/western` | Western Asia | [#](#b_region/asia/western) |
+|  | <a name="b_region/europe"></a>`region/europe` | Europe | [#](#b_region/europe) |
+|  | <a name="b_region/europe/eastern"></a>`region/europe/eastern` | Eastern Europe | [#](#b_region/europe/eastern) |
+|  | <a name="b_region/europe/northern"></a>`region/europe/northern` | Northern Europe | [#](#b_region/europe/northern) |
+|  | <a name="b_region/europe/southern"></a>`region/europe/southern` | Southern Europe | [#](#b_region/europe/southern) |
+|  | <a name="b_region/europe/western"></a>`region/europe/western` | Western Europe | [#](#b_region/europe/western) |
+|  | <a name="b_region/oceania"></a>`region/oceania` | Oceania | [#](#b_region/oceania) |
+|  | <a name="b_region/oceania/australia_and_new_zealand"></a>`region/oceania/australia_and_new_zealand` | Australia and New Zealand | [#](#b_region/oceania/australia_and_new_zealand) |
+|  | <a name="b_region/oceania/melanesia"></a>`region/oceania/melanesia` | Melanesia | [#](#b_region/oceania/melanesia) |
+|  | <a name="b_region/oceania/micronesia"></a>`region/oceania/micronesia` | Micronesia | [#](#b_region/oceania/micronesia) |
+|  | <a name="b_region/oceania/polynesia"></a>`region/oceania/polynesia` | Polynesia | [#](#b_region/oceania/polynesia) |
+
 ### <a name="c_role"></a>Role
 
 | Icon | Label | Description |   |
 | ---- | ----- | ----------- | - |
+|  | <a name="b_role/banking"></a>`role/banking` | Banking | [#](#b_role/banking) |
 |  | <a name="b_role/express_freight"></a>`role/express_freight` | Express freight | [#](#b_role/express_freight) |
 |  | <a name="b_role/express_passenger"></a>`role/express_passenger` | Express passenger | [#](#b_role/express_passenger) |
 |  | <a name="b_role/freight"></a>`role/freight` | Freight | [#](#b_role/freight) |
 |  | <a name="b_role/heavy_freight"></a>`role/heavy_freight` | Heavy freight | [#](#b_role/heavy_freight) |
+|  | <a name="b_role/light_freight"></a>`role/light_freight` | Light freight | [#](#b_role/light_freight) |
+|  | <a name="b_role/mail"></a>`role/mail` | Mail | [#](#b_role/mail) |
 |  | <a name="b_role/mixed"></a>`role/mixed` | Mixed | [#](#b_role/mixed) |
 |  | <a name="b_role/passenger"></a>`role/passenger` | Passenger | [#](#b_role/passenger) |
+|  | <a name="b_role/prototype"></a>`role/prototype` | Prototype | [#](#b_role/prototype) |
 |  | <a name="b_role/restaurant_car"></a>`role/restaurant_car` | Restaurant car | [#](#b_role/restaurant_car) |
+|  | <a name="b_role/shunting"></a>`role/shunting` | Shunting | [#](#b_role/shunting) |
+|  | <a name="b_role/snowplough"></a>`role/snowplough` | Snowplough | [#](#b_role/snowplough) |
+|  | <a name="b_role/utility"></a>`role/utility` | Utility | [#](#b_role/utility) |
+
+### <a name="c_zone"></a>Zone
+
+| Icon | Label | Description |   |
+| ---- | ----- | ----------- | - |
+|  | <a name="b_zone/agricultural"></a>`zone/agricultural` | Agricultural | [#](#b_zone/agricultural) |
+|  | <a name="b_zone/com"></a>`zone/com` | Commercial | [#](#b_zone/com) |
+|  | <a name="b_zone/com/high"></a>`zone/com/high` | High density commercial | [#](#b_zone/com/high) |
+|  | <a name="b_zone/com/low"></a>`zone/com/low` | Low density commercial | [#](#b_zone/com/low) |
+|  | <a name="b_zone/com/medium"></a>`zone/com/medium` | Medium density commercial | [#](#b_zone/com/medium) |
+|  | <a name="b_zone/forestry"></a>`zone/forestry` | Forestry | [#](#b_zone/forestry) |
+|  | <a name="b_zone/general"></a>`zone/general` | General | [#](#b_zone/general) |
+|  | <a name="b_zone/ind"></a>`zone/ind` | Industrial | [#](#b_zone/ind) |
+|  | <a name="b_zone/ind/high"></a>`zone/ind/high` | High density industrial | [#](#b_zone/ind/high) |
+|  | <a name="b_zone/ind/low"></a>`zone/ind/low` | Low density industrial | [#](#b_zone/ind/low) |
+|  | <a name="b_zone/ind/medium"></a>`zone/ind/medium` | Medium density industrial | [#](#b_zone/ind/medium) |
+|  | <a name="b_zone/leisure"></a>`zone/leisure` | Leisure | [#](#b_zone/leisure) |
+|  | <a name="b_zone/mixed"></a>`zone/mixed` | Commercial & residential | [#](#b_zone/mixed) |
+|  | <a name="b_zone/mixed/high"></a>`zone/mixed/high` | High density commercial & residential | [#](#b_zone/mixed/high) |
+|  | <a name="b_zone/mixed/low"></a>`zone/mixed/low` | Low density commercial & residential | [#](#b_zone/mixed/low) |
+|  | <a name="b_zone/mixed/medium"></a>`zone/mixed/medium` | Medium density commercial & residential | [#](#b_zone/mixed/medium) |
+|  | <a name="b_zone/other"></a>`zone/other` | Other | [#](#b_zone/other) |
+|  | <a name="b_zone/public"></a>`zone/public` | Public | [#](#b_zone/public) |
+|  | <a name="b_zone/res"></a>`zone/res` | Residential | [#](#b_zone/res) |
+|  | <a name="b_zone/res/high"></a>`zone/res/high` | High density residential | [#](#b_zone/res/high) |
+|  | <a name="b_zone/res/low"></a>`zone/res/low` | Low density residential | [#](#b_zone/res/low) |
+|  | <a name="b_zone/res/medium"></a>`zone/res/medium` | Medium density residential | [#](#b_zone/res/medium) |
+|  | <a name="b_zone/transport"></a>`zone/transport` | Transport | [#](#b_zone/transport) |
 
